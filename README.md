@@ -1,6 +1,7 @@
 # Robot Practice
 
 You can look at the example of the robot.py we have so far.
+Ignore the other stuff
 
 ### Hopefully we can do some of the following together this season:
   Understand what Python is and how to use it
